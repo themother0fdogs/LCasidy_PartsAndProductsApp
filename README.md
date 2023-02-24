@@ -13,5 +13,7 @@ When adding or modifying a product, the user is able to remove or add associated
 
 TOOLS:
 IDE Version Number: Intellij IDEA Community Edition 2021.1.3x64
+
 JDK Version: Java SE 11.0.15.1
+
 JavaFX: JavaFX-SDK-17.0.1, SceneBuilder
